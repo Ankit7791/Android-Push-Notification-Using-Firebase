@@ -1,5 +1,3 @@
-package t1m.com.the1market.common;
-
 import android.util.Log;
 
 import com.google.firebase.iid.FirebaseInstanceId;
