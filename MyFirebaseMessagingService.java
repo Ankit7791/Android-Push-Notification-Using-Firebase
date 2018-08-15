@@ -50,7 +50,7 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
         NotificationCompat.Builder notifiBuilder = new NotificationCompat.Builder(this)
                 .setSmallIcon(R.mipmap.ic_launcher)
-                .setContentTitle("t1Market")
+                .setContentTitle("YourAppName")
                 .setContentText(body)
                 .setAutoCancel(true)
                 .setSound(notificationSound)
